@@ -1,6 +1,6 @@
 name: Erotica
 favicon: null
-layout_spectrum: 0.2988174604251981
+layout_spectrum: 0.85514
 typography_spectrum: 0.3822
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.35139803821220994
+    - '#060606'
+    - '#2c2c2c'
+    - '#b8b8b8'
+    - '#f9f9f9'
+    - '#696969'
+  brandStrength: 0.25
   lightness: 0.10993142169900239
-  saturation: 0.7450230582617223
-  rhythmicContrast: 0.605253723450005
+  saturation: 0.25
+  rhythmicContrast: 1
 purpose: []
