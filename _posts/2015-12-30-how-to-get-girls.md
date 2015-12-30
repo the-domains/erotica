@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-30T17:15:12.116Z'
-dateModified: '2015-12-30T17:14:35.354Z'
+description: 'lacus sapien, ut interdum metus porttitor ut. Praesent tristique, quam nec euismod convallis, ante dolor feugiat leo, id imperdiet mauris mi eget nulla.'
+datePublished: '2015-12-30T17:18:47.532Z'
+dateModified: '2015-12-30T17:18:36.666Z'
 title: How to Get Girls
 author: []
+sourcePath: _posts/2015-12-30-how-to-get-girls.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-30-how-to-get-girls.md
-published: true
 url: how-to-get-girls/index.html
 _type: Article
 
