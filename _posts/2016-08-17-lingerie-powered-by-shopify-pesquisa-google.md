@@ -13,8 +13,8 @@ app_links: []
 isBasedOnUrl: >-
   https://www.google.com.br/search?q=LINGERIE+POWERED+BY+SHOPIFY&num=100&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjCzc6l_YLLAhWIHZAKHepRC0MQ_AUIBygB&biw=1280&bih=600
 title: LINGERIE POWERED BY SHOPIFY - Pesquisa Google
-datePublished: '2016-08-17T14:34:32.440Z'
-dateModified: '2016-02-20T06:56:36.621Z'
+datePublished: '2016-08-17T14:34:51.348Z'
+dateModified: '2016-02-20T06:56:42.796Z'
 starred: false
 sourcePath: _posts/2016-08-17-lingerie-powered-by-shopify-pesquisa-google.md
 inFeed: true
