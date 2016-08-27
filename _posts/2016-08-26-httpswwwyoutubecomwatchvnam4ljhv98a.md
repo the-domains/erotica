@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'https://www.youtube.com/watch?v=nAM4ljhV98A'
-datePublished: '2016-08-26T21:31:33.240Z'
-dateModified: '2016-08-26T21:28:57.506Z'
+datePublished: '2016-08-26T21:35:37.131Z'
+dateModified: '2016-08-26T21:35:36.395Z'
 title: ''
 author: []
 via: {}
@@ -20,4 +20,4 @@ _type: Article
 ---
 https://www.youtube.com/watch?v=nAM4ljhV98A
 
-https://archive.org/download/rl3AdvancedStorytelling3/rl3AdvancedStorytelling3.mp3
+http://modeIs.net/2bVeUUQ
