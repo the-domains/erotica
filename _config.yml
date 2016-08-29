@@ -1,29 +1,7 @@
-typography_spectrum: 0.47434
-color:
-  brandColors:
-    - '#000000'
-    - '#fb8dfe'
-    - '#efc1ef'
-    - '#9a5899'
-    - '#fa63fa'
-  brandStrength: 1
-  lightness: 0
-  saturation: 0.1875
-  rhythmicContrast: 1
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.6041
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 name: EROTICA-The Psychology of Perfect 10s
-cta:
-  domain: null
-  bucket: null
-  version: null
+favicon: null
+layout_spectrum: 0.6041
+typography_spectrum: 0.47434
 navigation:
   - name: Home
     url: 'http://thegrid.io/erotica'
@@ -40,6 +18,28 @@ navigation:
   - name: Perfect 10 Programming
     url: ' thegrid.ai/erotica'
     type: external
-favicon: null
-title: POP 101
+title: The Psychology of Perfect 10s
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#000000'
+    - '#fb8dfe'
+    - '#efc1ef'
+    - '#9a5899'
+    - '#fa63fa'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0.1875
+  rhythmicContrast: 1
 purpose: []
