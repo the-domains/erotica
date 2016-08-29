@@ -28,6 +28,9 @@ navigation:
   - name: Home
     url: 'http://thegrid.io/erotica'
     type: external
+  - name: Our Experts
+    url: ' thegrid.ai/erotica'
+    type: external
   - name: Podcasts
     url: 'http://sexi.com'
     type: external
@@ -36,9 +39,6 @@ navigation:
     type: external
   - name: Girls
     url: 'http://sxy.com'
-    type: external
-  - name: Our Experts
-    url: ' thegrid.ai/erotica'
     type: external
 favicon: null
 title: POP 101
