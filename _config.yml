@@ -25,11 +25,11 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Sex Kitten Programming
-    url: 'http://sex.com'
-    type: external
   - name: Experts
     url: 'http://sexy.com'
+    type: external
+  - name: Sex Kitten Programming
+    url: 'http://sex.com'
     type: external
   - name: Podcasts
     url: 'http://sexi.com'
