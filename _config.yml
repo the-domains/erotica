@@ -37,6 +37,9 @@ navigation:
   - name: Girls
     url: 'http://sxy.com'
     type: external
+  - name: Home
+    url: 'http://thegrid.io/erotica'
+    type: external
 favicon: null
 title: POP 101
 purpose: []
