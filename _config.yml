@@ -28,6 +28,9 @@ navigation:
   - name: Home
     url: 'http://thegrid.io/erotica'
     type: external
+  - name: Community Experts
+    url: 'http://sexy.com'
+    type: external
   - name: The Principles of Lust
     url: 'http://sexie.com'
     type: external
@@ -36,9 +39,6 @@ navigation:
     type: external
   - name: Perfect 10 Programming
     url: ' thegrid.ai/erotica'
-    type: external
-  - name: Community Experts
-    url: 'http://sexy.com'
     type: external
 favicon: null
 title: POP 101
