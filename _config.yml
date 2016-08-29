@@ -28,6 +28,9 @@ navigation:
   - name: Sex Kitten Programming
     url: 'http://sex.com'
     type: external
+  - name: Experts
+    url: 'http://sexy.com'
+    type: external
 favicon: null
 title: POP 101
 purpose: []
