@@ -31,6 +31,9 @@ navigation:
   - name: Experts
     url: 'http://sexy.com'
     type: external
+  - name: Podcasts
+    url: 'http://sexi.com'
+    type: external
 favicon: null
 title: POP 101
 purpose: []
