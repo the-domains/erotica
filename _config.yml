@@ -31,11 +31,11 @@ navigation:
   - name: Podcasts
     url: 'http://sexi.com'
     type: external
-  - name: Girls
-    url: 'http://sxy.com'
-    type: external
   - name: Sex Kitten Programming
     url: 'http://sex.com'
+    type: external
+  - name: Girls
+    url: 'http://sxy.com'
     type: external
 favicon: null
 title: POP 101
