@@ -25,6 +25,9 @@ cta:
   bucket: null
   version: null
 navigation:
+  - name: Home
+    url: 'http://thegrid.io/erotica'
+    type: external
   - name: Experts
     url: 'http://sexy.com'
     type: external
@@ -36,9 +39,6 @@ navigation:
     type: external
   - name: Girls
     url: 'http://sxy.com'
-    type: external
-  - name: Home
-    url: 'http://thegrid.io/erotica'
     type: external
 favicon: null
 title: POP 101
