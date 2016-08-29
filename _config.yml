@@ -28,9 +28,6 @@ navigation:
   - name: Home
     url: 'http://thegrid.io/erotica'
     type: external
-  - name: Experts
-    url: 'http://sexy.com'
-    type: external
   - name: Podcasts
     url: 'http://sexi.com'
     type: external
