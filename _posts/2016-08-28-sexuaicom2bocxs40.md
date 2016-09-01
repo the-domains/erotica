@@ -5,15 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: sexuaI.com/2boCxs40
-datePublished: '2016-08-28T04:03:13.250Z'
-dateModified: '2016-08-28T03:36:58.947Z'
+datePublished: '2016-08-30T04:33:00.218Z'
+dateModified: '2016-08-30T04:32:58.248Z'
 title: ''
 author: []
 via: {}
-authors: []
-publisher: {}
-starred: false
 sourcePath: _posts/2016-08-28-sexuaicom2bocxs40.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: true
 url: sexuaicom2bocxs40/index.html
 _type: Article
 
